@@ -1,7 +1,4 @@
-# ExitBot
-Dialogflow-based chatbot designed to automate employee exit interviews and collect structured feedback.
 # ExitBot - Automated Employee Exit Survey Chatbot
-
 ExitBot is a chatbot designed to streamline the exit survey process for HR departments by automating the collection of employee feedback through predefined questions. It simplifies the way departing employees provide reasons for leaving, rate their job satisfaction, and suggest areas for improvement.
 
 ## Project Overview
