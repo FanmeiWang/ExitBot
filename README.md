@@ -21,9 +21,10 @@ ExitBot helps HR departments collect structured feedback from departing employee
 
 ## Files in this Repository
 - **Chatbot Design Document** (`Chatbot_Design_FanmeiWang.docx`): Outlines the chatbot's conversation flow, intents, and entities.
-- **Dialogflow Configuration** (`ExitBot_Dialogflow.zip`): Exported Dialogflow configuration for importing and setting up ExitBot.
+- 
+## Project Screenshots
+The following screenshots provide an overview of ExitBot's structure and functionality:
+- **Interaction Example - Leaving Reasons**: ![Interaction Example 1](screenshots/Interaction_Example1.png)
+- **Interaction Example - Job Satisfaction**: ![Interaction Example 2](screenshots/Interaction_Example2.png)
 
-## How to Use
-1. Import the Dialogflow configuration file into your Dialogflow project.
-2. Refer to the design document for conversation flow and intent structure.
-3. Customize the intents and questions based on your HR requirements.
+These images illustrate how ExitBot is structured and how it interacts with users during the exit survey process.
