@@ -21,7 +21,7 @@ ExitBot helps HR departments collect structured feedback from departing employee
 
 ## Files in this Repository
 - **Chatbot Design Document** (`Chatbot_Design_FanmeiWang.docx`): Outlines the chatbot's conversation flow, intents, and entities.
-- 
+
 ## Project Screenshots
 The following screenshots provide an overview of ExitBot's structure and functionality:
 - **Interaction Example - Leaving Reasons**: [Interaction Example 1](Screenshot_1.png)
