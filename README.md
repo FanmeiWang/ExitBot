@@ -24,7 +24,7 @@ ExitBot helps HR departments collect structured feedback from departing employee
 - 
 ## Project Screenshots
 The following screenshots provide an overview of ExitBot's structure and functionality:
-- **Interaction Example - Leaving Reasons**: ![Interaction Example 1](screenshots/Interaction_Example1.png)
-- **Interaction Example - Job Satisfaction**: ![Interaction Example 2](screenshots/Interaction_Example2.png)
+- **Interaction Example - Leaving Reasons**: [Interaction Example 1](Screenshot_1.png)
+- **Interaction Example - Job Satisfaction**: ![Interaction Example 2](Screenshot_2.png)
 
 These images illustrate how ExitBot is structured and how it interacts with users during the exit survey process.
