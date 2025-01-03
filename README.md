@@ -34,7 +34,13 @@ I also have an **alternative implementation** using pure Python + Tkinter, which
 and allows for additional features like **sensitivity analysis**. 
 
 For illustration, see my [python_survey_example.py](python_survey_example.py) snippet.  
-(_Note: This snippet is only a partial demo; the full implementation remains proprietary._)
+(_Note: This snippet is only a partial demo. I maintain a **fully offline Python + Tkinter version** of ExitBot, which includes 
+extra features like advanced NLP or sensitivity analysis. 
+
+- **Where to find it?** This version is kept in a **private repository** to protect 
+  proprietary code. 
+- **Interested?** If you’d like to collaborate or learn more about the Python version, 
+  feel free to [contact me](mailto:emilyfmwang@gmail.com).)
 
 ### Sensitivity Analysis 
 In the Python/Tkinter version, I implemented an optional sensitivity analysis feature, allowing HR
@@ -52,6 +58,9 @@ detailed personal data.
 Here is a screenshot of the local Python version of ExitBot with a Tkinter interface:
 
 ![AltText](ExitBot_Python.png)
+
+
+
 
 
 
