@@ -36,6 +36,12 @@ and allows for additional features like **sensitivity analysis**.
 For illustration, see my [python_survey_example.py](python_survey_example.py) snippet.  
 (_Note: This snippet is only a partial demo; the full implementation remains proprietary._)
 
+### Sensitivity Analysis 
+In the Python/Tkinter version, I implemented an optional sensitivity analysis feature, allowing HR
+teams to set thresholds for user inputs or detect certain keywords that might require follow-up.
+This helps ensure the conversation flow adapts to particularly sensitive topics without exposing
+detailed personal data.
+
 **Key Points**:
 - No cloud dependency, purely Python-based.
 - Potential for advanced analytics or custom NLP modules.
