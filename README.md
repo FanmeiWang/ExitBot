@@ -39,7 +39,7 @@ _(Note: This snippet is only a partial demo; the full implementation remains pro
 I maintain a **fully offline Python + Tkinter version** of ExitBot that includes extra capabilities, such as advanced NLP or sensitivity analysis.
 
 - **Where to find it?** This full version is kept in a **private repository** to protect proprietary code.  
-- **Interested?** If you’d like to collaborate or learn more about the Python version, feel free to [contact me](mailto:emilyfmwang@gmail.com).
+- **Interested?** If you’d like to collaborate or learn more about the Python version, feel free to email me at: **emilyfmwang@gmail.com**.
 
 
 ### Sensitivity Analysis 
