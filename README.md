@@ -30,17 +30,17 @@ The following screenshots provide an overview of ExitBot's structure and functio
 These images illustrate how ExitBot is structured and how it interacts with users during the exit survey process.
 
 ## Python (Local GUI) Version [Minimal Example]
-I also have an **alternative implementation** using pure Python + Tkinter, which runs entirely offline
-and allows for additional features like **sensitivity analysis**. 
+
+I also have an **alternative implementation** using pure Python + Tkinter, which runs entirely offline and allows for additional features like **sensitivity analysis**.
 
 For illustration, see my [python_survey_example.py](python_survey_example.py) snippet.  
-(_Note: This snippet is only a partial demo. I maintain a **fully offline Python + Tkinter version** of ExitBot, which includes 
-extra features like advanced NLP or sensitivity analysis. 
+_(Note: This snippet is only a partial demo; the full implementation remains proprietary.)_
 
-- **Where to find it?** This version is kept in a **private repository** to protect 
-  proprietary code. 
-- **Interested?** If you’d like to collaborate or learn more about the Python version, 
-  feel free to [contact me](mailto:emilyfmwang@gmail.com).)
+I maintain a **fully offline Python + Tkinter version** of ExitBot that includes extra capabilities, such as advanced NLP or sensitivity analysis.
+
+- **Where to find it?** This full version is kept in a **private repository** to protect proprietary code.  
+- **Interested?** If you’d like to collaborate or learn more about the Python version, feel free to [contact me](mailto:emilyfmwang@gmail.com).
+
 
 ### Sensitivity Analysis 
 In the Python/Tkinter version, I implemented an optional sensitivity analysis feature, allowing HR
