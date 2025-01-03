@@ -51,7 +51,7 @@ detailed personal data.
 
 Here is a screenshot of the local Python version of ExitBot with a Tkinter interface:
 
-![Python Version Screenshot](exitbot_python.png)
+![ExitBot Screenshot](ExitBot_Python.png)
 
 
 
