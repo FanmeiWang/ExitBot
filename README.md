@@ -47,3 +47,11 @@ detailed personal data.
 - Potential for advanced analytics or custom NLP modules.
 - Maintains the same exit survey logic but with a local GUI approach.
 
+- ### Python-based GUI Example
+
+Here is a screenshot of the local Python version of ExitBot with a Tkinter interface:
+
+![Python Version Screenshot](screenshots/exitbot_python.png)
+
+
+
